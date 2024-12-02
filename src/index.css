@@ -1,0 +1,10 @@
+@import "./assets/css/_variables.scss";
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  font-family: var(--fontFamily);
+}
